@@ -16,11 +16,11 @@ La aplicación deberá minimo cotizar dos tipos de proyecto y llevar el
 control de uno.
 
 
-*Visualizacíon:
+**Visualizacíon:**
 
 <img width="681" alt="image" src="https://user-images.githubusercontent.com/81385175/176500158-7881cbea-1707-4701-afb6-d14af9e0561d.png">
 
-*Datos Ingresados.
+**Datos Ingresados.**
 
 (Edificio)
 
@@ -32,12 +32,12 @@ control de uno.
 
 
 
-*Proyectos Cotizados:
+**Proyectos Cotizados:**
 
 <img width="680" alt="image" src="https://user-images.githubusercontent.com/81385175/176500806-be84d5d0-8971-4218-a3e9-270bdca57a23.png">
 
 
-*Control del Proyecto
+**Control del Proyecto**
 
 <img width="469" alt="image" src="https://user-images.githubusercontent.com/81385175/176501490-7ca9c3c3-e1c9-4e2c-968c-4f20b9fd6bc9.png">
 
